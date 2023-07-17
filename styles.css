@@ -1,0 +1,53 @@
+/* Body Styles */
+body {
+    background-color: #d9f6e3; /* Light green background color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading Styles */
+h1 {
+    font-family: 'Pacifico', cursive; /* Stylish font */
+    font-size: 32px;
+    color: #333333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Paragraph Styles */
+p {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+/* List Styles */
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+/* Navigation Menu Styles (Optional Challenge) */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #555555;
+}
